@@ -1,0 +1,14 @@
+/Users/realnozver/RiderProjects/Family_tz/Family_migrations/bin/Debug/net7.0/Family_migrations.deps.json
+/Users/realnozver/RiderProjects/Family_tz/Family_migrations/bin/Debug/net7.0/Family_migrations.runtimeconfig.json
+/Users/realnozver/RiderProjects/Family_tz/Family_migrations/bin/Debug/net7.0/Family_migrations.dll
+/Users/realnozver/RiderProjects/Family_tz/Family_migrations/bin/Debug/net7.0/Family_migrations.pdb
+/Users/realnozver/RiderProjects/Family_tz/Family_migrations/obj/Debug/net7.0/Family_migrations.csproj.AssemblyReference.cache
+/Users/realnozver/RiderProjects/Family_tz/Family_migrations/obj/Debug/net7.0/Family_migrations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/realnozver/RiderProjects/Family_tz/Family_migrations/obj/Debug/net7.0/Family_migrations.AssemblyInfoInputs.cache
+/Users/realnozver/RiderProjects/Family_tz/Family_migrations/obj/Debug/net7.0/Family_migrations.AssemblyInfo.cs
+/Users/realnozver/RiderProjects/Family_tz/Family_migrations/obj/Debug/net7.0/Family_migrations.csproj.CoreCompileInputs.cache
+/Users/realnozver/RiderProjects/Family_tz/Family_migrations/obj/Debug/net7.0/Family_migrations.dll
+/Users/realnozver/RiderProjects/Family_tz/Family_migrations/obj/Debug/net7.0/refint/Family_migrations.dll
+/Users/realnozver/RiderProjects/Family_tz/Family_migrations/obj/Debug/net7.0/Family_migrations.pdb
+/Users/realnozver/RiderProjects/Family_tz/Family_migrations/obj/Debug/net7.0/Family_migrations.genruntimeconfig.cache
+/Users/realnozver/RiderProjects/Family_tz/Family_migrations/obj/Debug/net7.0/ref/Family_migrations.dll
