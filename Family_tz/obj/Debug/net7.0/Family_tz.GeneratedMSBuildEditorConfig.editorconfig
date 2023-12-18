@@ -20,5 +20,14 @@ build_property.EnableGeneratedComInterfaceComImportInterop =
 [/Users/realnozver/RiderProjects/Family_tz/Family_tz/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
+[/Users/realnozver/RiderProjects/Family_tz/Family_tz/Assets/Icons.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/Users/realnozver/RiderProjects/Family_tz/Family_tz/Views/HomePageView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
 [/Users/realnozver/RiderProjects/Family_tz/Family_tz/Views/MainWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/Users/realnozver/RiderProjects/Family_tz/Family_tz/Views/StatisticPageView.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml

@@ -15,6 +15,36 @@
         <vm:MainWindowViewModel/>
     </Design.DataContext>
 
-    <TextBlock Text="{Binding Greeting}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+ <SplitView IsPaneOpen="{Binding IsPaneOpen}"
+            OpenPaneLength="300"
+            CompactPaneLength="48"
+            DisplayMode="CompactInline"
+            Background="#1e1e1e"
+            PaneBackground="#1e1e1e">
+     <SplitView.Pane>
+         <StackPanel Spacing="5"
+                     Margin="5">
+             <Button Command="{Binding TriggerPaneCommand}">
+                 <PathIcon Data="{StaticResource LineHorizontal3Regular}"></PathIcon>
+             </Button>
+             <ListBox CornerRadius="5" ItemsSource="{Binding Items}" SelectedItem="{Binding SelectedListItem}">
+                 <ListBox.ItemTemplate>
+                     <DataTemplate DataType="{x:Type vm:ListItemTemplate}">
+                         <StackPanel Spacing="15" Orientation="Horizontal">
+                             <PathIcon Data="{Binding ListItemIcon}"></PathIcon>
+                             <TextBlock Text="{Binding Label}"></TextBlock>
+                         </StackPanel>
+                     </DataTemplate>
+                 </ListBox.ItemTemplate>
+             </ListBox>
+         </StackPanel>
+     </SplitView.Pane>
+     <SplitView.Content>
+         <Border CornerRadius="12 0 0 0"
+                 Background="#2d2d2d">
+             <TransitioningContentControl Content="{Binding CurrentPage}" />
+         </Border>
+     </SplitView.Content>
+ </SplitView>
 
 </Window>

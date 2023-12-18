@@ -54,13 +54,13 @@
               "target": "Package",
               "version": "[11.0.6, )"
             },
-            "Avalonia.ReactiveUI": {
-              "target": "Package",
-              "version": "[11.0.6, )"
-            },
             "Avalonia.Themes.Fluent": {
               "target": "Package",
               "version": "[11.0.6, )"
+            },
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.2.2, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",

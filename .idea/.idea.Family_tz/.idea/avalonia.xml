@@ -3,7 +3,11 @@
   <component name="AvaloniaProject">
     <option name="projectPerEditor">
       <map>
+        <entry key="Family_tz/App.axaml" value="Family_tz/Family_tz.csproj" />
+        <entry key="Family_tz/Assets/Icons.axaml" value="Family_tz/Family_tz.csproj" />
+        <entry key="Family_tz/Views/HomePageView.axaml" value="Family_tz/Family_tz.csproj" />
         <entry key="Family_tz/Views/MainWindow.axaml" value="Family_tz/Family_tz.csproj" />
+        <entry key="Family_tz/Views/StatisticPageView.axaml" value="Family_tz/Family_tz.csproj" />
       </map>
     </option>
   </component>

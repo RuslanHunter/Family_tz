@@ -12,3 +12,4 @@
 /Users/realnozver/RiderProjects/Family_tz/Family_migrations/obj/Debug/net7.0/Family_migrations.pdb
 /Users/realnozver/RiderProjects/Family_tz/Family_migrations/obj/Debug/net7.0/Family_migrations.genruntimeconfig.cache
 /Users/realnozver/RiderProjects/Family_tz/Family_migrations/obj/Debug/net7.0/ref/Family_migrations.dll
+/Users/realnozver/RiderProjects/Family_tz/Family_migrations/obj/Debug/net7.0/Family_migrations.sourcelink.json

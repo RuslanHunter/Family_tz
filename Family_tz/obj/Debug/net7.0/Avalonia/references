@@ -15,14 +15,13 @@
 /Users/realnozver/.nuget/packages/avalonia/11.0.6/ref/net6.0/Avalonia.MicroCom.dll
 /Users/realnozver/.nuget/packages/avalonia.native/11.0.6/lib/net6.0/Avalonia.Native.dll
 /Users/realnozver/.nuget/packages/avalonia/11.0.6/ref/net6.0/Avalonia.OpenGL.dll
-/Users/realnozver/.nuget/packages/avalonia.reactiveui/11.0.6/lib/net6.0/Avalonia.ReactiveUI.dll
 /Users/realnozver/.nuget/packages/avalonia.remote.protocol/11.0.6/lib/net6.0/Avalonia.Remote.Protocol.dll
 /Users/realnozver/.nuget/packages/avalonia.skia/11.0.6/lib/net6.0/Avalonia.Skia.dll
 /Users/realnozver/.nuget/packages/avalonia.themes.fluent/11.0.6/lib/net6.0/Avalonia.Themes.Fluent.dll
 /Users/realnozver/.nuget/packages/avalonia.themes.simple/11.0.6/lib/net6.0/Avalonia.Themes.Simple.dll
 /Users/realnozver/.nuget/packages/avalonia.win32/11.0.6/lib/net6.0/Avalonia.Win32.dll
 /Users/realnozver/.nuget/packages/avalonia.x11/11.0.6/lib/net6.0/Avalonia.X11.dll
-/Users/realnozver/.nuget/packages/dynamicdata/7.9.5/lib/net6.0/DynamicData.dll
+/Users/realnozver/.nuget/packages/communitytoolkit.mvvm/8.2.2/lib/net6.0/CommunityToolkit.Mvvm.dll
 /Users/realnozver/.nuget/packages/harfbuzzsharp/7.3.0/lib/net6.0/HarfBuzzSharp.dll
 /Users/realnozver/.nuget/packages/microcom.runtime/0.11.0/lib/net5.0/MicroCom.Runtime.dll
 /Users/realnozver/.nuget/packages/microsoft.codeanalysis.csharp/3.8.0/lib/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
@@ -51,9 +50,7 @@
 /usr/local/share/dotnet/packs/Microsoft.NETCore.App.Ref/7.0.14/ref/net7.0/netstandard.dll
 /Users/realnozver/.nuget/packages/npgsql/7.0.6/lib/net7.0/Npgsql.dll
 /Users/realnozver/.nuget/packages/npgsql.entityframeworkcore.postgresql/7.0.11/lib/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
-/Users/realnozver/.nuget/packages/reactiveui/18.3.1/lib/net6.0/ReactiveUI.dll
 /Users/realnozver/.nuget/packages/skiasharp/2.88.6/lib/net6.0/SkiaSharp.dll
-/Users/realnozver/.nuget/packages/splat/14.4.1/lib/net6.0/Splat.dll
 /usr/local/share/dotnet/packs/Microsoft.NETCore.App.Ref/7.0.14/ref/net7.0/System.AppContext.dll
 /usr/local/share/dotnet/packs/Microsoft.NETCore.App.Ref/7.0.14/ref/net7.0/System.Buffers.dll
 /usr/local/share/dotnet/packs/Microsoft.NETCore.App.Ref/7.0.14/ref/net7.0/System.Collections.Concurrent.dll
@@ -136,7 +133,6 @@
 /usr/local/share/dotnet/packs/Microsoft.NETCore.App.Ref/7.0.14/ref/net7.0/System.Numerics.dll
 /usr/local/share/dotnet/packs/Microsoft.NETCore.App.Ref/7.0.14/ref/net7.0/System.Numerics.Vectors.dll
 /usr/local/share/dotnet/packs/Microsoft.NETCore.App.Ref/7.0.14/ref/net7.0/System.ObjectModel.dll
-/Users/realnozver/.nuget/packages/system.reactive/5.0.0/lib/net5.0/System.Reactive.dll
 /usr/local/share/dotnet/packs/Microsoft.NETCore.App.Ref/7.0.14/ref/net7.0/System.Reflection.DispatchProxy.dll
 /usr/local/share/dotnet/packs/Microsoft.NETCore.App.Ref/7.0.14/ref/net7.0/System.Reflection.dll
 /usr/local/share/dotnet/packs/Microsoft.NETCore.App.Ref/7.0.14/ref/net7.0/System.Reflection.Emit.dll
